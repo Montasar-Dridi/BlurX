@@ -24,6 +24,6 @@ BlurX is a General-purpose object anonymization tool using computer vision, curr
     - `test/<test-name> : Testing
 
 # TODO
-- [ ] Read Input (Image | Folder Full of Images)
+- [X] Read Input (Image | Folder Full of Images)
 - [ ] Face Detection
 - [ ] First CLI Version
