@@ -1,3 +1,5 @@
 opencv-python
 pathlib
 pytest
+insightface
+onnxruntime
